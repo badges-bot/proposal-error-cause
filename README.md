@@ -1,5 +1,7 @@
 # Error Cause
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 Status: Stage 3
 
 Author: [@legendecas](https://github.com/legendecas)
